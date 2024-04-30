@@ -7,7 +7,7 @@ from kivymd.color_definitions import colors
 from kivymd.uix.screen import Screen
 import openai
 
-openai.api_key = 'sk-proj-rely1kMPjD244fHCFCuvT3BlbkFJd9LlI7tOXQxauvGsFx4o'  # Replace 'your-api-key' with your actual OpenAI API key
+openai.api_key = '########'  # Replace 'your-api-key' with your actual OpenAI API key
 
 search_helper = """
 MDTextField:
